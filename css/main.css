@@ -44,11 +44,17 @@ ul.posts li {
 
 img#b {
     float: left;
-    margin: 0px 0px 0px 0;
+    margin: 0px 20px 20px 0;
     width: 180px;
     height: 180px;
 }
 
+p#par-bio {
+    text-align: justify;
+    font-size: 1.1em;
+    line-height: 1.0em;
+    color: #333;
+}
 
 
 
