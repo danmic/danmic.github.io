@@ -42,9 +42,9 @@ ul.posts li {
     list-style: none;
 }
 
-.cv {
+img#b {
     float: left;
-    margin: 200px 300px 300px 0;
+    margin: 20px 300px 300px 0;
     width: 180px;
     height: 180px;
 }
