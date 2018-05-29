@@ -14,19 +14,19 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    font-size: 1.1em;
+    font-size: 1em;
     color: #999;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
+    font-size: 1.8em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.6em;
-    line-height: 1.5em;
+    font-size: 1.3em;
+    line-height: 1.2em;
     color: #333;
 }
 header {
@@ -55,8 +55,8 @@ img#b {
 
 p#par-bio {
     text-align: justify;
-    font-size: 1.6em;
-    line-height: 1.5em;
+    font-size: 1.3em;
+    line-height: 1.2em;
     color: #333;
 }
 
