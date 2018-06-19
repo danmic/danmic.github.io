@@ -30,8 +30,8 @@ disqus_shortname:   danmic
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+google:
+  plus:            https://scholar.google.it/citations?user=Rk4O2mEAAAAJ
   #analytics:
   #verify:
   #ad-client:
@@ -40,9 +40,9 @@ disqus_shortname:   danmic
 email:              danmi@es.aau.dk
 #twitter:            username
 #facebook:           username
-github-url:         https://github.com/danmic
+github-url:         danmic
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           https://www.linkedin.com/in/danielmichelsanti/
+linkedin:           danielmichelsanti
 #xing:              username
 #instagram:          username
 #lastfm:            username
