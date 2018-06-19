@@ -14,3 +14,5 @@ comments: false
 
 
 I am a PhD Fellow at [Aalborg University](https://www.en.aau.dk). I am a part of the [Centre for Acoustic Signal Processing Research](http://caspr.es.aau.dk) (CASPR), supevised by [Zheng-Hua Tan](http://kom.aau.dk/~zt/) and [Jesper Jensen](http://kom.aau.dk/~jje/). My research interests include machine learning, computer vision and signal processing. Currently, I am working on a project regarding audio-visual speech enhancement, hoping that my findings will improve the quality of life in people with a hearing loss.
+
+Before starting my PhD project, I got a Bachelor's in Computer Science and Electronic Engineering at the [University of Perugia](https://www.unipg.it/en/), and a Master's in Vision, Graphics and Interactive Systems at Aalborg University, where I worked on several research projects, including a biometrics project in collaboration with [Fingerprint Cards](https://www.fingerprints.com). I have also spent time at [Bang & Olufsen](https://www.bang-olufsen.com/en).
