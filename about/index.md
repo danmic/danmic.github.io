@@ -8,7 +8,8 @@ comments: false
 
 
 
-> Blindness separates people from things; deafness separates people from people.
+> Blindness separates people from things;
+> deafness separates people from people.
 > - Helen Keller
 
 
