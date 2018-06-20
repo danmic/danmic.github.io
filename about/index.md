@@ -8,9 +8,9 @@ comments: false
 
 
 
-> Blindness separates people from things;
-> deafness separates people from people.
-> - Helen Keller
+<div style="text-align: right"> Blindness separates people from things; </div>
+<div style="text-align: right"> deafness separates people from people. </div>
+>                    - Helen Keller
 
 
 
