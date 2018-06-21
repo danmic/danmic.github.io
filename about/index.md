@@ -17,7 +17,5 @@ Before starting my PhD project, I got a Bachelor's in Computer Science and Elect
 
 
 
-<p style="text-align: center"> <sub> <a href="mailto:danmi@es.aau.dk"> Email </a> - </sub> </p>
-
-
+<p style="text-align: center"> <sub> <a href="mailto:danmi@es.aau.dk">Email</a> - <a href="https://www.linkedin.com/in/danielmichelsanti/Linkedin">Linkedin</a> - <a href="https://scholar.google.com/citations?user=Rk4O2mEAAAAJ">Google Scholar</a> - <a href="https://www.researchgate.net/profile/Daniel_Michelsanti">ResearchGate</a> - <a href="https://github.com/danmic">GitHub</a> - <a href="https://twitter.com/998match">Twitter</a> </sub> </p>
 
