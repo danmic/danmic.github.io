@@ -17,7 +17,7 @@ Before starting my PhD project, I got a Bachelor's in Computer Science and Elect
 
 
 
-<p style="text-align: center"> <sub href="mailto:danmi@es.aau.dk">Email - </sub> </p>
+<p style="text-align: center"> <sub> <a href="mailto:danmi@es.aau.dk"> Email </a> - </sub> </p>
 
 
 
