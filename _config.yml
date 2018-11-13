@@ -2,7 +2,7 @@
 title:              Daniel Michelsanti
 bio:                'PhD fellow at Aalborg University. Dealing with machine learning, computer vision and signal processing, while enjoying hygge in Aalborg.'
 description:        "PhD Fellow at AAU"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 about_logo:	    'assets/img/about_logo.png'
