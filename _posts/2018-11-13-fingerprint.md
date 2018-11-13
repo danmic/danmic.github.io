@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fast Fingerprint Classification with Deep Neural Network"
+title: "Fast Fingerprint Classification with Deep Neural Networks"
 date: 2018-11-14
 excerpt: "Michelsanti D., Guichi Y., Ene A.D., Stef R., Nasrollahi K., Moeslund T.B."
 tags: [Fingerprint classification, Transfer learning, Convolutional neural networks]
