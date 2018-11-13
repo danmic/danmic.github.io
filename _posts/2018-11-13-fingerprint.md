@@ -2,14 +2,14 @@
 layout: post
 title: "Fast Fingerprint Classification with Deep Neural Network"
 date: 2018-11-14
-excerpt: "Michelsanti D., Guichi Y., Ene A.D., Stef R., Nasrollahi K., Moeslund T. B."
+excerpt: "Michelsanti D., Guichi Y., Ene A.D., Stef R., Nasrollahi K., Moeslund T.B."
 tags: [Fingerprint classification, Transfer learning, Convolutional neural networks]
 comments: false
 ---
 
 ### Authors
 
-**Michelsanti D.**, Guichi Y., Ene A.D., Stef R., [Nasrollahi K.](http://kamal.blog.aau.dk), [Moeslund T. B.](http://thbm.blog.aau.dk)
+**Michelsanti D.**, Guichi Y., Ene A.D., Stef R., [Nasrollahi K.](http://kamal.blog.aau.dk), [Moeslund T.B.](http://thbm.blog.aau.dk)
 
 ### Conference
 
