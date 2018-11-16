@@ -9,7 +9,7 @@ comments: false
 
 ### Authors
 
-**Michelsanti D.**, [Tan Z.H.](http://kom.aau.dk/~zt/), Sigurdsson S., [Jensen J](http://kom.aau.dk/~jje/).
+**Michelsanti D.**, [Tan Z.H.](http://kom.aau.dk/~zt/), Sigurdsson S., [Jensen J.](http://kom.aau.dk/~jje/)
 
 ### Conference
 
