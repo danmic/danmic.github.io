@@ -13,7 +13,7 @@ comments: false
 
 ### Conference
 
-ArXiv Preprint
+44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019)
 
 ### Abstract
 
