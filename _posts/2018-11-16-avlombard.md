@@ -21,3 +21,4 @@ Humans tend to change their way of speaking when they are immersed in a noisy en
 
 [Full text](https://arxiv.org/pdf/1811.06250)
 [Poster](https://github.com/danmic/danmic.github.io/raw/master/assets/img/av_lombard.pdf)
+[Demo](https://vbn.aau.dk/files/294337847/danmi_demo.ppsx)
