@@ -23,7 +23,5 @@ We conduct several experiments using an audio-visual Lombard speech corpus consi
 
 [Full text](https://arxiv.org/abs/1905.12605)
 
-{% highlight html %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IRlaU0EMeOg" frameborder="0"> </iframe>
-{% endhighlight %}
 
