@@ -86,7 +86,6 @@ h3.title a {
 			@include font-rem(16);
 			text-decoration: underline;
 			color: $color_shark;
-			font-weight: lighter;
             &:hover {
                 color: $red;
             }
