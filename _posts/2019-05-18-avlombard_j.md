@@ -11,9 +11,9 @@ comments: false
 
 **Michelsanti D.**, [Tan Z.H.](http://kom.aau.dk/~zt/), Sigurdsson S., [Jensen J.](http://kom.aau.dk/~jje/)
 
-### Preprint
+### Journal
 
-arXiv
+Speech Communication, Elsevier
 
 ### Abstract
 
