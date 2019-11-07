@@ -66,6 +66,35 @@ h3.title a {
 	}
 }
 
+// post list
+.update-list {
+    text-align: left;
+	ul {
+		list-style: disc;
+		padding-left: 0;
+	}
+	li {
+		padding: 5px 18px;
+		margin: 0px 10px;
+		text-decoration: none;
+		background: $white;
+		color: $color_shark;
+		a {
+			@include font-rem(20);
+			text-decoration: none;
+			color: $color_shark;
+			font-weight: bolder;
+            &:hover {
+                color: $red;
+            }
+		}
+		p {
+			font-weight: lighter;
+			@include font-rem(16);
+		}
+	}
+}
+
 // quotes
 blockquote {
 	font-family:$alt-font;
