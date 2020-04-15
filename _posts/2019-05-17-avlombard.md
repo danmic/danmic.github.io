@@ -2,14 +2,14 @@
 layout: post
 title: "Effects of Lombard Reflex on the Performance of Deep-Learning-Based Audio-Visual Speech Enhancement Systems"
 date: 2018-11-14
-excerpt: "Michelsanti D., Tan Z.H., Sigurdsson S., Jensen J."
+excerpt: "Michelsanti D., Tan Z.-H., Sigurdsson S., Jensen J."
 tags: [Audio-visual speech enhancement, deep learning, Lombard effect]
 comments: false
 ---
 
 ### Authors
 
-**Michelsanti D.**, [Tan Z.H.](http://kom.aau.dk/~zt/), Sigurdsson S., [Jensen J.](http://kom.aau.dk/~jje/)
+**Michelsanti D.**, [Tan Z.-H.](http://kom.aau.dk/~zt/), Sigurdsson S., [Jensen J.](http://kom.aau.dk/~jje/)
 
 ### Conference
 
