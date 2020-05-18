@@ -28,6 +28,7 @@ $(document).ready(function() {
         $(".container").removeClass("fadeIn").addClass("fadeOut");
         $(".wrapper").removeClass("fadeIn").addClass("fadeOut");
     });
+    $(".zombtn").click(function() {}
     // go up button
     $.goup({
         trigger: 500,
