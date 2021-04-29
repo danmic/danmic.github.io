@@ -11,7 +11,11 @@ comments: false
 <p style="text-align: right"> <em>Blindness separates people from things;<br>deafness separates people from people.<br><strong>Helen Keller</strong></em> </p>
 
 
-I am a PhD Fellow at [Aalborg University](https://www.en.aau.dk) (AAU). I am a part of the [Centre for Acoustic Signal Processing Research](http://caspr.es.aau.dk) (CASPR), supervised by [Zheng-Hua Tan](http://kom.aau.dk/~zt/) and [Jesper Jensen](http://kom.aau.dk/~jje/). My research interests include machine learning, computer vision and signal processing. Currently, I am working on a project regarding audio-visual speech enhancement in cooperation with [Oticon](https://www.oticon.com), hoping that my findings will improve the quality of life in people with a hearing loss.
+I am an industrial postdoc at [Demant Enterprise](https://www.demant.com) and [Aalborg University](https://www.en.aau.dk) (AAU), having a PhD in electrical and electronic engineering. My company mentors are Prof. [Jesper Jensen](https://vbn.aau.dk/en/persons/101379) and [Sergi Rotger Griful](https://www.eriksholm.com/about-us/employee-portraits/employee-page---sergi-rotger-griful); my university mentor is Prof. [Zheng-Hua Tan](https://vbn.aau.dk/en/persons/107665). 
+
+During my PhD studies I was a part of the [Centre for Acoustic Signal Processing Research](http://caspr.es.aau.dk) (CASPR). Currently, I am affiliated with the Section [AI and Sound](https://www.es.aau.dk/sections-labs/AI+and+Sound/) (AIS), and I am also a part of the [Machine Learning Research Group](https://vbn.aau.dk/en/organisations/machine-learning) and the [AI for the People Center](https://vbn.aau.dk/en/organisations/ai-for-the-people).
+
+My research interests mostly extend across three areas: machine learning, specifically deep learning; acoustic signal processing, with a particular focus on speech signals; computer vision. At the moment, I am investigating cutting-edge technologies for next-generation hearing assistive devices, hoping that my findings will improve the quality of life in people with a hearing loss.
 
 Before starting my PhD project, I got a Bachelor's in Computer Science and Electronic Engineering at the [University of Perugia](https://www.unipg.it/en/), and a Master's in Vision, Graphics and Interactive Systems at Aalborg University, where I worked on several projects, including one on biometrics in collaboration with [Fingerprint Cards](https://www.fingerprints.com). I have also worked as an intern at [Bang & Olufsen](https://www.bang-olufsen.com/en).
 
