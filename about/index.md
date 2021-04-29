@@ -19,6 +19,6 @@ I have a PhD in electrical and electronic engineering, obtained at Aalborg Unive
 
 
 
-<p style="text-align: center"> <sub> <a href="mailto:danmi@es.aau.dk">Email</a> - <a href="https://www.linkedin.com/in/danielmichelsanti/Linkedin" target="_blank" rel="noopener noreferrer">Linkedin</a> - <a href="https://scholar.google.com/citations?user=Rk4O2mEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> - <a href="{{ site.url }}/assets/img/MiDa_cv.pdf" target="_blank" rel="noopener noreferrer">CV</a><!-- - <a href="https://www.researchgate.net/profile/Daniel_Michelsanti">CV</a> - <a href="https://github.com/danmic">GitHub</a> - <a href="https://twitter.com/998match">Twitter</a> --></sub> </p>
+<p style="text-align: center"> <sub> <a href="mailto:danmi@es.aau.dk">Email</a> - <a href="https://www.linkedin.com/in/danielmichelsanti/" target="_blank" rel="noopener noreferrer">Linkedin</a> - <a href="https://scholar.google.com/citations?user=Rk4O2mEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> - <a href="{{ site.url }}/assets/img/MiDa_cv.pdf" target="_blank" rel="noopener noreferrer">CV</a><!-- - <a href="https://www.researchgate.net/profile/Daniel_Michelsanti">CV</a> - <a href="https://github.com/danmic">GitHub</a> - <a href="https://twitter.com/998match">Twitter</a> --></sub> </p>
 
 
