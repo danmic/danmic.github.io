@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Utilization of acoustic signals with generative Gaussian and autoencoder modeling for condition-based maintenance of injection moulds"
+title: "Utilization of Acoustic Signals with Generative Gaussian and Autoencoder Modeling for Condition-Based Maintenance of Injection Moulds"
 date: 2022-09-14
 excerpt: "Rønsch G. Ø., Lopez-Espejo I., Michelsanti D., Xie Y., Popovski P., Tan Z.-H."
 tags: [acoustic signal processing, predictive maintenance, injection moulding, industry 4.0, machine learning]
